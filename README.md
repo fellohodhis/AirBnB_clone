@@ -203,4 +203,4 @@ $ python3 unittest -m tests/test console.py
 ```
 
 ## Authors :black nib:
-* *Felix Odhiambo** <[felix](https://github.com/fellohodhis)>
+* *Felix Odhiambo* <[felix](https://github.com/fellohodhis)>
